@@ -23,3 +23,30 @@ This project is currently in the planning and development stage. Features will d
 
 ## Important Note
 Tamenny is intended as a family support tool. It is not a substitute for professional medical diagnosis or emergency services.
+
+
+## Team Member
+ Mostafa Adel Mostafa Team Leader
+ Batoul Abdullah Ali 
+ Ziad Ibrahim Mohamed 
+ Hana Mostafa Mahmoud 
+ Mohamed Ismail Abdelmawgoud
+
+## Work Plan
+
+1. Define the project problem and objectives.
+2. Conduct market research and competitor analysis.
+3. Identify the target audience and its needs.
+4. Develop the project strategy and positioning.
+5. Prepare the required project documentation and presentation.
+
+## KPIs
+
+- Complete the planned project milestones on time.
+- Complete the market research and competitor analysis.
+- Clearly define the target audience.
+- Complete the project strategy and documentation.
+
+## Instructor
+
+Youssef Abdelsabour
