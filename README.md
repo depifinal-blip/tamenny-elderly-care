@@ -24,13 +24,14 @@ This project is currently in the planning and development stage. Features will d
 ## Important Note
 Tamenny is intended as a family support tool. It is not a substitute for professional medical diagnosis or emergency services.
 
+## Team Members
 
-## Team Member
- Mostafa Adel Mostafa Team Leader
- Batoul Abdullah Ali 
- Ziad Ibrahim Mohamed 
- Hana Mostafa Mahmoud 
- Mohamed Ismail Abdelmawgoud
+- Mostafa Adel Mostafa — Team Leader
+- Batoul Abdullah Ali — 
+- Ziad Ibrahim Mohamed — 
+- Hana Mostafa Mahmoud — 
+- Mohamed Ismail Abdelmawgoud — 
+ 
 
 ## Work Plan
 
