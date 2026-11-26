@@ -2,146 +2,109 @@
 
 <h1>طمني &nbsp;·&nbsp; Tammeni</h1>
 
-<p><b>Elderly Care App</b><br>
-Helping families stay connected with and monitor the well-being of elderly family members.</p>
+<p><b>Stay close to the ones you love, even when distance gets in the way.</b></p>
 
 <p>
+  <img src="https://img.shields.io/badge/program-DEPI-0A2540?style=for-the-badge" alt="program">
   <img src="https://img.shields.io/badge/stage-planning%20%26%20development-0B5563?style=for-the-badge" alt="stage">
-  <img src="https://img.shields.io/badge/type-proposed%20application-2AB7B0?style=for-the-badge" alt="type">
+  <img src="https://img.shields.io/badge/market-Egypt-2AB7B0?style=for-the-badge" alt="market">
 </p>
 
 </div>
 
 ---
 
-## Table of Contents
+Tammeni is our DEPI project. We are building the plan for an app that helps families keep track of their elderly parents and get alerted when something may be wrong, and that helps them find the nearest hospital.
 
-- [Project Overview](#project-overview)
-- [Problem Statement](#problem-statement)
-- [Main Features](#main-features)
-- [How It Works](#how-it-works)
-- [Project Goals](#project-goals)
-- [Project Status](#project-status)
-- [Important Note](#important-note)
-- [Team Members](#team-members)
-- [Work Plan](#work-plan)
-- [KPIs](#kpis)
+The app itself is not built yet, so everything we publish is awareness content. We introduce the brand and start conversations with families. There is no download link and no launch date.
 
----
+## 💡 Project Idea
 
-## Project Overview
+A lot of Egyptian families live far from their parents, because of work, study or travel. The worry that comes with that is constant, and it is strongest in one moment: an emergency when nobody is nearby.
 
-**Tammeni** is a proposed application designed to help families stay connected with and monitor the well-being of elderly family members.
+Tammeni is meant to close the gap between *"something happened"* and *"someone who can help knows about it."*
 
-| | |
+| Feature | What it does |
 |---|---|
-| **Project** | Tammeni (طمني) |
-| **Type** | Elderly care app |
-| **Purpose** | Keep families connected with, and aware of, the well-being of their elderly relatives |
-| **Stage** | Planning and development |
+| **Emergency alerts** | Sends an alert to every registered family member when help is needed |
+| **Health emergency notifications** | Notifies the family when compatible devices or sensors detect a possible emergency |
+| **Family contacts** | Lets the family manage who receives alerts |
+| **Nearby hospitals** | Helps users find the closest hospitals and medical facilities |
+| **Location sharing** | Shares emergency location, only with the user's permission |
 
----
+Our core message:
 
-## Problem Statement
+> **Stay close to the ones you love, even when distance gets in the way.**
 
-Family members may worry about elderly parents when they are alone, or when an emergency occurs and no one is nearby to help.
+**Who it is for:** adult sons and daughters living away from their parents, family caregivers who share the responsibility, and older adults who want to stay independent.
 
-| Situation | The concern |
-|---|---|
-| **A parent is alone** | The family cannot know how they are doing. |
-| **An emergency occurs** | No one is nearby to help, and the family may not find out in time. |
+> ⚠️ **Important note:** Tammeni is a family support tool. It is not a substitute for professional medical diagnosis or emergency services.
 
----
-
-## Main Features
-
-| # | Feature | Description |
-|:-:|---|---|
-| 1 | **Emergency alerts** | Alerts are sent to registered family members. |
-| 2 | **Health emergency notifications** | Notifications are sent when potential health emergencies are detected by compatible devices or sensors. |
-| 3 | **Family contact management** | Manage the family members who receive alerts. |
-| 4 | **Nearby hospital finder** | Assistance in finding nearby hospitals. |
-| 5 | **Emergency location sharing** | Emergency location information can be shared, with appropriate user permission. |
-
----
-
-## How It Works
-
-A simplified view of the planned flow:
-
-```mermaid
-flowchart LR
-    A["Emergency<br/>or alert request"] --> B{"Tammeni"}
-    B --> C["Alert to registered<br/>family members"]
-    B --> D["Location shared<br/>(with permission)"]
-    B --> E["Nearby hospitals"]
-```
-
----
-
-## Project Goals
-
-| Goal | Description |
-|---|---|
-| **Faster response** | Help families respond more quickly to potential emergencies. |
-| **Better communication** | Improve communication between elderly people and their families. |
-| **Easier access to care** | Make it easier to locate nearby medical facilities. |
-
----
-
-## Project Status
-
-This project is currently in the **planning and development stage**. Features will depend on the selected technologies, available devices and testing.
-
----
-
-## Important Note
-
-> **Tammeni is intended as a family support tool.** It is not a substitute for professional medical diagnosis or emergency services.
-
----
-
-## Team Members
+## 👥 Team Members
 
 | Member | Role |
 |---|---|
 | **Mostafa Adel Mostafa** | Team Leader |
-| Batoul Abdullah Ali | Team Member |
-| Ziad Ibrahim Mohamed | Team Member |
-| Hana Mostafa Mahmoud | Team Member |
-| Mohamed Ismail Abdelmawgoud | Team Member |
+| Batoul Abdullah Ali | Content |
+| Ziad Ibrahim Mohamed | Publishing & community |
+| Hana Mostafa Mahmoud | Design |
+| Mohamed Ismail Abdelmawgoud | Paid ads |
 
----
+## 🗓️ Work Plan
 
-## Work Plan
+We split the project into milestones and worked through them in order.
 
-| Step | Activity |
-|:-:|---|
-| 1 | Define the project problem and objectives |
-| 2 | Conduct market research and competitor analysis |
-| 3 | Identify the target audience and its needs |
-| 4 | Develop the project strategy and positioning |
-| 5 | Prepare the required project documentation and presentation |
+| # | What we did | Status |
+|:-:|---|:-:|
+| 1 | Defined the problem and the project objectives | ✅ Done |
+| 2 | Market research and competitor analysis | ✅ Done |
+| 3 | Target audience and what they need | ✅ Done |
+| 4 | Project strategy and positioning | ✅ Done (Milestone 1) |
+| 5 | Content strategy, 7-day calendar and post designs | ✅ Done (Milestone 2) |
+| 6 | Publishing on Facebook and Instagram | 🔄 In progress |
+| 7 | Paid ads: first campaign run, next phases planned | 🔄 In progress |
+| 8 | Final documentation and presentation | 🔄 In progress |
 
----
+## 🧩 Roles & Responsibilities
 
-## KPIs
+Everyone had a part in every milestone, and we put the work together before submitting. These are the roles the plan needs:
 
-| # | KPI |
-|:-:|---|
-| 1 | Complete the planned project milestones on time |
-| 2 | Complete the market research and competitor analysis |
-| 3 | Clearly define the target audience |
-| 4 | Complete the project strategy and documentation |
+| Role | Responsible for | Who |
+|---|---|---|
+| **Strategy & coordination** | Brand foundation, positioning, planning and final review | Mostafa |
+| **Content** | Content pillars, calendar, Arabic captions, Reel and Stories scripts | Batoul |
+| **Design** | Visual identity, post designs and the carousel | Hana |
+| **Publishing & community** | Posting on Facebook and Instagram, replying to comments and messages | Ziad |
+| **Paid ads** | Campaign setup, audiences and budget, results and optimisation | Mohamed |
+
+## 📊 KPIs
+
+**Project KPIs**
+
+- Complete the planned project milestones on time
+- Complete the market research and competitor analysis
+- Clearly define the target audience
+- Complete the project strategy and documentation
+
+**What we track on social media and ads**
+
+| Metric | Why it matters for us |
+|---|---|
+| Cost per page visit | Shows if our ad traffic stays cheap |
+| Reach and frequency | Shows if we are reaching new people or the same ones |
+| Follower growth | Shows if the audience is actually building |
+| Engagement | Shows if the content connects with families |
+| Messages and enquiries | Shows real interest in the product |
+
+Results are reported in our milestone documents.
 
 ---
 
 <div align="center">
 
-**Tammeni · طمني**
+**Tammeni · طمني** &nbsp;·&nbsp; DEPI &nbsp;·&nbsp; Egypt
 
 </div>
-
 
 ## Instructor
 
