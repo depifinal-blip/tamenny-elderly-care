@@ -61,8 +61,8 @@ We split the project into milestones and worked through them in order.
 | 3 | Target audience and what they need | ✅ Done |
 | 4 | Project strategy and positioning | ✅ Done (Milestone 1) |
 | 5 | Content strategy, 7-day calendar and post designs | ✅ Done (Milestone 2) |
-| 6 | Publishing on Facebook and Instagram | 🔄 In progress |
-| 7 | Paid ads: first campaign run, next phases planned | 🔄 In progress |
+| 6 | Publishing on Facebook and Instagram | ✅ done (milestone 2) |
+| 7 | Paid ads: first campaign run, next phases planned | ✅ Done (milestone 2) |
 | 8 | Final documentation and presentation | 🔄 In progress |
 
 ## 🧩 Roles & Responsibilities
